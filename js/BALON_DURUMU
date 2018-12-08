@@ -1,0 +1,10 @@
+
+
+
+const BALON_DURUMU = {
+
+    DOKUNULMAMIS: 0,
+    SISIRILIMIS: 1,
+    PATLATILMIS: 2
+    
+}
